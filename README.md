@@ -1,0 +1,1 @@
+# gruvbox_material_dark_soft_iTerm2
